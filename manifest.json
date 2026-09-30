@@ -1,0 +1,12 @@
+{
+  "id": "things",
+  "name": "Things",
+  "version": "2.0.0",
+  "description": "Crisp layered paper: confident blue selection, rounded tabs, subtle elevation, and clear Light and Dark workspaces.",
+  "author": [
+    "nausicaa"
+  ],
+  "authorUrl": [
+    "https://github.com/nausicaa-io"
+  ]
+}
